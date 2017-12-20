@@ -360,7 +360,6 @@ def print_all_items_forwards(sequence):
     for k in range(len(sequence)):
         print(sequence[k])
 
-
 # ----------------------------------------------------------------------
 # Iterating through the ENTIRE sequence, BACKWARDs.
 # ----------------------------------------------------------------------
